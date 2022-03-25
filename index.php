@@ -4,6 +4,8 @@ $username = 'pauln@myservidor';
 $password = 'Paul.123';
 $db_name = 'pruebadb';
 
+//INGA
+
 //Initializes MySQLi
 
 ?>
